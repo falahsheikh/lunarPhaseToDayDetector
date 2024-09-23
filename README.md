@@ -54,4 +54,4 @@ Make sure the pre-trained model (`19yearsExportGray100epoch.pkl`) is placed in t
 Feel free to contribute to this project by opening issues or submitting pull requests. For major changes, please open a discussion beforehand to ensure the changes fit the project’s scope.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/falahsheikh/lunarPhaseToDayDetector/blob/main/LICENSE).
